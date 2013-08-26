@@ -1,0 +1,12 @@
+{
+	"name": "clevis/utils-enum-constants",
+	"type": "library",
+	"description": "Utility to get values of constants of given prefix.",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
